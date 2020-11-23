@@ -16,7 +16,7 @@ By using machine learning to detect fake news, new stories posted on the platfor
 
 * **Jupyter Notebooks**
 
-The Jupyter Notebook is our key deliverable and details data preprocessing, exploration, modelling and evaluation.
+The [Jupyter Notebook](https://github.com/nadinezab/fake-news/blob/main/Fake-news.ipynb) is our key deliverable and details data preprocessing, exploration, modelling and evaluation.
 
 
 * **Data**
